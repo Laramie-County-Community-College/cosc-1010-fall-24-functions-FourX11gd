@@ -17,6 +17,13 @@ Outputs:  Mathemeatcal statements, dynamic sentances
 
 Key calculations:  Mathematical satements, Menu selections
 
+Key design considerations:
+  Ease of reading (formating)
 
+Test data:
+  I accidentally deleted the first program, but this one will have the same testing, multiple numbers to check the math
+  Numbers to check menuing, including indicating a incorrect number and asking again
 
 '''
+
+#setting 
