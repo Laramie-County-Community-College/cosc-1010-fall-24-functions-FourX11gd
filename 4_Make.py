@@ -24,6 +24,8 @@ Test data:
   I accidentally deleted the first program, but this one will have the same testing, multiple numbers to check the math
   Numbers to check menuing, including indicating a incorrect number and asking again.  While testing I did some
   fomating to make easier to read the actual program
+
+Also appologies, trying to learn github at the same time
 '''
 #setting constants and defining functions
 operation = ''
